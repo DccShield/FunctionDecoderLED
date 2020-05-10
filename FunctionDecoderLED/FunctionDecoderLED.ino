@@ -1,7 +1,18 @@
-// DCC Smile Function Decoder 
+//--------------------------------------------------------------------------------
+// DCC Smile Function Decoder
 // 両極性1FX 6FXデコーダ
-// http://dcc.client.jp
-// http://ayabu.blog.shinobi.jp
+// [FunctionDecoderLED.ino]
+// Copyright (c) 2020 Ayanosuke(Maison de DCC) / Desktop Station
+//
+// http://maison-dcc.sblo.jp/ http://dcc.client.jp/ http://ayabu.blog.shinobi.jp/
+// https://twitter.com/masashi_214
+//
+// DCC電子工作連合のメンバーです
+// https://desktopstation.net/tmi/ https://desktopstation.net/bb/index.php
+//
+// This software is released under the MIT License.
+// http://opensource.org/licenses/mit-license.php
+//--------------------------------------------------------------------------------
 
 #include <arduino.h>
 #include "DccCV.h"
